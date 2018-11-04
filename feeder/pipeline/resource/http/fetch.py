@@ -1,0 +1,2 @@
+class HTTPFetcher(object):
+    pass

@@ -1,0 +1,2 @@
+class FTPFetcher(object):
+    pass

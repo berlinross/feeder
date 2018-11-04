@@ -1,0 +1,2 @@
+class URLBuilder(object):
+    pass
